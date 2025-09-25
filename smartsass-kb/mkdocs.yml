@@ -1,0 +1,12 @@
+site_name: SmartSass Knowledge Base
+theme:
+  name: material
+nav:
+  - Scam Protection:
+      - "Avoid Phishing Emails": scam-protection/avoid-phishing.md
+      - "Fake Tech Support Popups": scam-protection/fake-popups.md
+  - Device Setup & Troubleshooting:
+      - "Set Up a New iPhone": device-setup/setup-iphone.md
+      - "Why is My Computer Slow?": device-setup/slow-computer.md
+  - Wi-Fi & Home Networking:
+      - "Fix a Slow Wi-Fi Connection": wifi-networking/slow-wifi.md
